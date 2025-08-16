@@ -36,5 +36,5 @@ React, cloud-native development, microservices
 
 ### 📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/arulkumar-m)  
-- <a href="https://mail.google.com/mail/?view=cm&to=arulkumar1062000@gmail.com" target="_blank">Send Email(arulkumar1062000@gmail.com)</a>
+- <a href="https://mail.google.com/mail/?view=cm&to=arulkumar1062000@gmail.com" target="_blank">Send Email</a>
 
